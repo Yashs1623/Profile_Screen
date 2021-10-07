@@ -1,6 +1,6 @@
 #Profile_Screen App
 
-An app with a form (profile page) with all the validations and it displays the data in the next Profile_Screen
+An app with a form (profile page) with all the validations and it displays the data in the next page
 
 
 
